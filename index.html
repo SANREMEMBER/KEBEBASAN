@@ -8,7 +8,26 @@ layout: default
 
 	  <li class="post">
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
-	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
+	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">
+<!-- Localization to Indonesia language -->
+{% assign m = post.date | date: "%-m" %}
+{{ post.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Januari
+  {% when '2' %}Februari
+  {% when '3' %}Maret
+  {% when '4' %}April
+  {% when '5' %}Mei
+  {% when '6' %}Juni
+  {% when '7' %}Juli
+  {% when '8' %}Agustus
+  {% when '9' %}September
+  {% when '10' %}Oktober
+  {% when '11' %}November
+  {% when '12' %}Desember
+{% endcase %}
+{{ post.date | date: "%Y" }}
+</time>
 	  	<p> {{ post.content | split:'<!--more-->' | first }}
    {% if post.content contains '<!--more-->' %}
       <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Baca lengkap...</a>
