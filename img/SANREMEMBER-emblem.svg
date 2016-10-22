@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="676"
+   height="676"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SANREMEMBER-emblem.svg"
+   inkscape:export-filename="/media/haxanuxer/NEWDATA/SANREMEMBER/Design/Emblem/SANREMEMBER.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.15708333"
+     inkscape:cx="483.39715"
+     inkscape:cy="-291.02555"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="555"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3017"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-376.36218)">
+    <g
+       id="g4213"
+       transform="matrix(1.1266667,0,0,1.1266667,0,-133.29921)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/haxanuxer/NEWDATA/SANREMEMBER/Design/Emblem/SANREMEMBER - photo.png"
+         y="452.36215"
+         x="0"
+         height="600"
+         width="600"
+         id="rect3788"
+         style="fill:#e7e8eb;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3849"
+         d="m 299.99999,508.14342 -5.75,3.3125 -94.125,54.34377 -17.25,9.9687 17.25,9.9375 294.12502,169.8125 17.25,9.9688 0,-19.9063 0,-108.6875 0,-6.6562 -5.75,-3.3125 -200.00003,-115.46877 -5.75,-3.3125 z m 0,26.5313 188.50002,108.84367 0,82.125 -259.62502,-149.9062 71.125,-41.06247 z m -150,60.06247 -5.75,3.3125 -50.000005,28.875 -5.75,3.3125 0,6.6562 0,57.75 0,6.625 5.75,3.3125 350.000005,202.0625 5.75003,3.3438 5.75,-3.3438 49.99999,-28.875 5.75,-3.3125 0,-6.625 0,-57.75 0,-6.6562 -5.75,-3.3125 -350.00002,-202.0625 -5.75,-3.3125 z m 0,26.5312 338.50002,195.4375 0,44.4688 -38.5,22.25 -338.50002,-195.4375 0,-44.4688 38.5,-22.25 z m -61.500005,117.9375 0,19.9375 0,108.6875 0,6.625 5.75,3.3125 200.000005,115.4688 5.75,3.3437 5.75,-3.3437 94.125,-54.3438 17.25,-9.9375 -17.25,-9.9687 -294.125,-169.8125 -17.250005,-9.9688 z m 23.000005,39.8438 259.625,149.9062 -71.125,41.0625 -188.5,-108.8437 0,-82.125 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#353535;fill-opacity:1;stroke:none;stroke-width:23;marker:none;enable-background:accumulate" />
+    </g>
+    <g
+       id="g3514"
+       transform="matrix(0.73418151,0,0,0.73418151,927.92998,242.14893)" />
+  </g>
+</svg>

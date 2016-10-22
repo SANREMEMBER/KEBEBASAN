@@ -1,0 +1,37 @@
+# Site settings
+title: KEBEBASAN
+description: "Bebaskan diri dari penghambaan kepada selain ALLAH Azza wa Jalla"
+url: "https://kebebasan.id"
+author:
+  name: "SANREMEMBER"
+  email: "sanremember@gmx.com"
+  url: "https://kebebasan.id"
+
+# Build settings
+baseurl: # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title/
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "0.5"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+gems:
+  - jekyll-paginate
