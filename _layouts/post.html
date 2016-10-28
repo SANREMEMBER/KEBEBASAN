@@ -22,11 +22,13 @@ layout: default
   {% when '12' %}Desember
 {% endcase %}
 {{ page.date | date: "%Y" }}
-</time>
+</time>	
 	<div class="content">
 
 		{{ content }}
 		
 	</div>
+<hr>
+<small>Kategori: {% for category in page.categories %}<a href="/kategori#{{ category }}/" title="Laman yang dikategorikan {{ category }}" rel="category">{{ category }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor%}</small>
 </article>
 
