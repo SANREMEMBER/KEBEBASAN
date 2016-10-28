@@ -2,6 +2,8 @@
 layout: page
 title: Kategori
 ---
+### Kumpulan Laman yang Disortir Berdasarkan Kategori
+
 <section id="categories">
 {% for category in site.categories %}
  <h3 id="{{ category | first }}"><font style="text-transform: capitalize;">{{ category | first }}</font></h3>
