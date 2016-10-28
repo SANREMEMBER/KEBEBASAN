@@ -1,1 +1,3 @@
-Kumpulan Rekam Jejak Menggunakan Bash & Terminal
+##KEBABASAN
+
+KEBEBASAN adalah salah satu tema untuk Jekyll

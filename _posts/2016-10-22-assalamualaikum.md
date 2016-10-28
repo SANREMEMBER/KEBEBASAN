@@ -1,5 +1,6 @@
 ---
 title: Assalamualaikum
+categories: Catatan
 ---
 ![Assalamualaikum - SANREMEMBER](/img/SANREMEMBER-emblem.svg "Assalamualaikum - SANREMEMBER")
 
