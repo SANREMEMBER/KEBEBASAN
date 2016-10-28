@@ -29,6 +29,8 @@ layout: default
 		
 	</div>
 <hr>
-<small>kategori: {% for category in page.categories %}<a href="/kategori/{{ category }}/" title="Laman yang dikategorikan {{ category }}" rel="category">{{ category }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor%}</small>
+<div style= "float: left"> <small>kategori: {% for category in page.categories %}<a href="/kategori/{{ category }}/" title="Laman yang dikategorikan {{ category }}" rel="category">{{ category }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor%}</small></div>
+<div style= "float: right"> <small>tanda: {% for tag in page.tags %}<a href="/tanda#{{ tag }}/" title="Laman yang ditandai {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor%}</small></div>
+<br>
 </article>
 
