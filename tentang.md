@@ -2,9 +2,11 @@
 layout: page
 title: Tentang
 ---
-### Tentang SANREMEMBER
+### Tentang Hasannudin Amin (SANREMEMBER)
 Hanya hamba Allah Subhanahu wa Ta'ala.
 
-Surat Elektronik: sanremember@gmx.com
+#### Kontak
+- Surel: sanremember@gmx.com
+- Telegram : [SANREMEMBER](http://telegram.me/SANREMEMBER)
 
-### Tentang SANREMEMBER BLOG
+### Tentang Blog
