@@ -29,6 +29,6 @@ layout: default
 		
 	</div>
 <hr>
-<small>Kategori: {% for category in page.categories %}<a href="/kategori#{{ category }}/" title="Laman yang dikategorikan {{ category }}" rel="category">{{ category }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor%}</small>
+<small>kategori: {% for category in page.categories %}<a href="/kategori/{{ category }}/" title="Laman yang dikategorikan {{ category }}" rel="category">{{ category }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor%}</small>
 </article>
 
