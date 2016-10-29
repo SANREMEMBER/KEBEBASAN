@@ -25,7 +25,7 @@ Apem arbanat ampyang bikang bakpia cenil cucur cakue dodol dadar gulung emput fu
 
 ~~Ini adalah tulisan yang dicoret~~, madu mongso nogosari ongol-ongol onde-onde pastel pluntiran putu ayu pukis rondo royal risoles satru sermier serabi thiwul tape tetel utri unthuk yuyu vutu wajik wingko xiomay yangko zermier.
 
-> Ini adalah kutipan, madu mongso nogosari ongol-ongol onde-onde pastel pluntiran putu ayu pukis rondo royal risoles satru sermier serabi thiwul tape tetel utri unthuk yuyu vutu wajik wingko xiomay yangko zermier.
+> Ini adalah kutipan, apem arbanat ampyang bikang bakpia cenil cucur cakue dodol dadar gulung emput fukis getuk gulali hawug-hawug hongkwe iwel-iwel jenang kroket klepon ketan lemper lapis mendut.
 
 ### Ini adalah daftar makanan:
 - apem
@@ -38,6 +38,14 @@ Apem arbanat ampyang bikang bakpia cenil cucur cakue dodol dadar gulung emput fu
 2. cenil
 3. cucur
 4. cakue
+
+Daftar makanan yang ada di atas, diambil dari sumber berikut[^1]
+
+    Ini adalah contoh teks preformatted.
+	madu mongso nogosari ongol-ongol onde-onde pastel pluntiran
+	putu ayu pukis rondo royal risoles satru sermier serabi
+	thiwul tape tetel utri unthuk yuyu vutu wajik
+	wingko xiomay yangko zermier.
 
 Dibawah ini, adalah contoh sintaksis kode yang akan di ``highlight``. Berikut contoh kode Python:
 {% highlight python lineos %}
@@ -58,4 +66,6 @@ else:
 
 {% endhighlight %}
 
-Apem arbanat ampyang bikang bakpia cenil cucur cakue dodol dadar gulung emput fukis getuk gulali hawug-hawug hongkwe iwel-iwel jenang kroket klepon ketan lemper lapis mendut.
+Apem arbanat ampyang bikang bakpia cenil cucur cakue dodol dadar gulung emput fukis getuk gulali hawug-hawug hongkwe iwel-iwel jenang kroket klepon ketan lemper lapis mendut,.
+
+[^1]: Ini adalah contoh catatan kaki, merujuk pada [kebebasan](https://kebebasan/)
