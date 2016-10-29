@@ -2,9 +2,9 @@
 title: Assalamualaikum
 categories: catatan
 tag:
-- tutorial
-- markdown
 - jekyll
+- markdown
+- tutorial
 ---
 ![Assalamualaikum - SANREMEMBER](/img/SANREMEMBER-emblem.svg "Assalamualaikum - SANREMEMBER")
 

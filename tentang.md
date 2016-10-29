@@ -10,3 +10,4 @@ Hanya hamba Allah Subhanahu wa Ta'ala.
 - Telegram : [SANREMEMBER](http://telegram.me/SANREMEMBER)
 
 ### Tentang Blog
+Kumpulan renungan, catatan, ulasan, serta karya yang di publikasikan.
