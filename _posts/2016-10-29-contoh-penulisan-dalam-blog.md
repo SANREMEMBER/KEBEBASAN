@@ -48,11 +48,11 @@ ampyang = 1500
 jajanan = input("Jajanan Apa yang ingin Anda beli ?\n")
 
 if jajanan == "apem":
-	print("Harga apem adalah",apem)
+	print("Harga apem adalah",apem,"Rupiah")
 elif jajanan == "ampyang":
-	print("Harga ampyang adalah",ampyang)
+	print("Harga ampyang adalah",ampyang,"Rupiah")
 elif jajanan == "arbanat":
-	print("Harga arbanat adalah",arbanat)
+	print("Harga arbanat adalah",arbanat,"Rupiah")
 else:
 	print("Maaf, kami tidak menjual jajan",jajanan)
 
