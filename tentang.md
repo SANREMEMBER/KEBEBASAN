@@ -6,7 +6,7 @@ title: Tentang
 Hanya hamba Allah Subhanahu wa Ta'ala.
 
 #### Kontak
-- Surel: sanremember@gmx.com
+- Surel: [sanremember@gmx.com](mailto:sanremember@gmx.com)
 - Telegram : [SANREMEMBER](http://telegram.me/SANREMEMBER)
 
 ### Tentang Blog

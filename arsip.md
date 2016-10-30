@@ -19,7 +19,7 @@ title: Arsip
       <li><time>
 <!-- Localization to Indonesia language -->
 {% assign m = post.date | date: "%-m" %}
-{{ post.date | date: "%-d" }}
+{{ post.date | date: "%d" }}
 {% case m %}
   {% when '1' %}Jan
   {% when '2' %}Feb

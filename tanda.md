@@ -11,7 +11,7 @@ title: Tanda
     {% for posts in tag %}
       {% for post in posts %}
         {% if post.url %}
-          <li>{{ post.date | date: "%m/%d/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
+          <li>{{ post.date | date: "%Y/%m/%d" }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endif %}
       {% endfor %}
     {% endfor %}
