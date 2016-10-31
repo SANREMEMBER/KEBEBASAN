@@ -1,12 +1,13 @@
 ---
 title: Contoh Penulisan Dalam Blog
-categories: catatan
-tag:
+category: catatan
+tags:
 - jekyll
 - markdown
 - tutorial
 ---
-Apem arbanat ampyang bikang bakpia cenil cucur cakue dodol dadar gulung emput fukis getuk gulali hawug-hawug hongkwe iwel-iwel jenang kroket klepon ketan lemper lapis mendut.
+![ini adalah gambar sampul](https://archive.org/download/sampul-hasan/sampul-hasan-01.jpg "ini adalah gambar sampul")
+	Apem arbanat ampyang bikang bakpia cenil cucur cakue dodol dadar gulung emput fukis getuk gulali hawug-hawug hongkwe iwel-iwel jenang kroket klepon ketan lemper lapis mendut.
 Setelah baris ini akan dipotong.
 <!--more-->
 Madu mongso nogosari ongol-ongol onde-onde pastel pluntiran putu ayu pukis rondo royal risoles satru sermier serabi thiwul tape tetel utri unthuk yuyu vutu wajik wingko xiomay yangko zermier

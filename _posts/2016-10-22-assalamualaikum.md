@@ -1,7 +1,7 @@
 ---
 title: Assalamualaikum
-categories: catatan
-tag:
+category: catatan
+tags:
 - jekyll
 - markdown
 - tutorial
