@@ -6,7 +6,7 @@ tags:
 - markdown
 - tutorial
 ---
-![ini adalah gambar sampul](https://archive.org/download/sampul-hasan/sampul-hasan-01.jpg "ini adalah gambar sampul")
+![ini adalah gambar sampul](https://archive.org/download/sampul-sanremember/sampul-sanremember-01.jpg "ini adalah gambar sampul")
 	Apem arbanat ampyang bikang bakpia cenil cucur cakue dodol dadar gulung emput fukis getuk gulali hawug-hawug hongkwe iwel-iwel jenang kroket klepon ketan lemper lapis mendut.
 Setelah baris ini akan dipotong.
 <!--more-->
