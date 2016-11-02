@@ -1,5 +1,6 @@
-## KEBABASAN
-KEBEBASAN adalah sebuah tema sederhana, hasil modifikasi dari tema bernama [Emerald](https://github.com/KingFelix/emerald/) yang dibuat untuk Jekyll.
+KEBABASAN
+==============
+KEBEBASAN adalah sebuah tema sederhana untuk Jekyll. Merupakan hasil modifikasi dari tema bernama [Emerald](https://github.com/KingFelix/emerald/).
 
 ## Lisensi
 KEBEBASAN dirilis dibawah [lisensi MIT](license.md)
