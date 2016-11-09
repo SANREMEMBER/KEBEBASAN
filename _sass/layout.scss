@@ -199,6 +199,7 @@ img[title="{{ site.title }}"] {
   }
 
 code {
+  font-size: 0.9em;
   color: lighten($text-color, 35%);
   background-color: lighten($background-color, 35%);
 }
