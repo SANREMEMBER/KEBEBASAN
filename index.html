@@ -9,9 +9,9 @@ layout: default
 	  <li class="post">
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">
-<!-- Localization to Indonesia language -->
+<!-- Insert Islamic Calendar and date in Bahasa -->
 {% assign m = post.date | date: "%-m" %}
-{{ post.date | date: "%-d" }}
+{% if post.hijri %}{{ post.hijri }} - {% endif %}{{ post.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Januari
   {% when '2' %}Februari
