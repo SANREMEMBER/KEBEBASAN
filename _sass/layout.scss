@@ -199,9 +199,9 @@ img[title="{{ site.title }}"] {
   }
 
 code {
-  font-size: 0.9em;
+  font-size: 0.85em;
   color: lighten($text-color, 35%);
-  background-color: lighten($background-color, 35%);
+  background-color: darken($background-color, 5%);
 }
 
 /* Set the vertical rhythm (and padding-left) for lists inside post content */
