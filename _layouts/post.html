@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: max-default
 ---
 <article id="post-page">
 	<h2>{{ page.title }}</h2>		
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">
-<!-- Localization to Indonesia language -->
+<!-- Insert Islamic Calendar and date in Bahasa -->
 {% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+{% if page.hijri %}{{ page.hijri }} - {% endif %}{{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Januari
   {% when '2' %}Februari

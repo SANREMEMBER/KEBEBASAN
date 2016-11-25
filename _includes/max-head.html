@@ -1,0 +1,30 @@
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+
+	
+	<!-- Enforce SSL -->
+	<!--
+	<script type="text/javascript">
+	  if (window.location.protocol != "https:")
+          window.location.protocol = "https";
+	</script> -->
+	
+
+	<title>{%if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="{{ "/css/max-main.css" }}">
+	<link href='//brick.a.ssl.fastly.net/Source+Sans+Pro:300,400,700,900,400i' rel='stylesheet' type='text/css'>
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+    <!-- ICON -->
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
+
+</head>
