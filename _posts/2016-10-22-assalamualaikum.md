@@ -5,6 +5,7 @@ tags:
 - jekyll
 - markdown
 - tutorial
+hijri: 21 Muharram 1438
 ---
 ![Assalamualaikum - SANREMEMBER](/img/SANREMEMBER-emblem.svg "Assalamualaikum - SANREMEMBER")
 

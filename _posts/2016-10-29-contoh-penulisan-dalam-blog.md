@@ -5,6 +5,7 @@ tags:
 - jekyll
 - markdown
 - tutorial
+hijri: 28 Muharram 1438
 ---
 ![ini adalah gambar sampul](https://archive.org/download/sampul-sanremember/sampul-sanremember-01.jpg "ini adalah gambar sampul")
 	Apem arbanat ampyang bikang bakpia cenil cucur cakue dodol dadar gulung emput fukis getuk gulali hawug-hawug hongkwe iwel-iwel jenang kroket klepon ketan lemper lapis mendut.
