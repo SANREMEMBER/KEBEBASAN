@@ -11,7 +11,7 @@ layout: default
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">
 <!-- Insert Islamic Calendar and date in Bahasa -->
 {% assign m = post.date | date: "%-m" %}
-{% if post.hijri %}{{ post.hijri }} - {% endif %}{{ post.date | date: "%-d" }}
+{% if post.hijri %}{{ post.hijri }} / {% endif %}{{ post.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Januari
   {% when '2' %}Februari

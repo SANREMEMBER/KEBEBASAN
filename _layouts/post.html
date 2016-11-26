@@ -6,7 +6,7 @@ layout: max-default
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">
 <!-- Insert Islamic Calendar and date in Bahasa -->
 {% assign m = page.date | date: "%-m" %}
-{% if page.hijri %}{{ page.hijri }} - {% endif %}{{ page.date | date: "%-d" }}
+{% if page.hijri %}{{ page.hijri }} / {% endif %}{{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Januari
   {% when '2' %}Februari
